@@ -1,0 +1,28 @@
+_repo: Dead-Men-Tell-No-Tales_1703
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hornung, E. W. (Ernest William)
+    alias: Hornung, Ernest William
+    birthdate: 1866
+    deathdate: 1921
+    gutenberg_agent_id: '364'
+    url: http://www.gutenberg.org/2009/agents/364
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_William_Hornung
+description: ''
+gutenberg_bookshelf: Crime Fiction
+gutenberg_issued: '1999-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1703'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Dead Men Tell No Tales
+url: http://www.gutenberg.org/ebooks/1703
